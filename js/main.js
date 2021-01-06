@@ -1,0 +1,1 @@
+$(document).load(function(){new Sly(".frame").init()});
